@@ -1094,7 +1094,7 @@ void rotate3d(double xr, double yr, double zr,
 #define LONGITUTE 127.04   이 값 이외의 수치는 손대지 말 것
                                 /*      |z        */
 #define RADIUS 200.             /*      |         */
-#define ZROTATE -LONGITUTE      /*    p/|   */
+#define ZROTATE -LONGITUTE      /*    p/|         */
 #define YROTATE -LATITUTE       /*     |+------ y */
 #define XROTATE 22.5            /*     /-/        */
 #define INTERVAL 15.            /*    /  fi       */
